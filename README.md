@@ -1,19 +1,8 @@
 ## Hi there 👋
 
-<!--
-**k1e1n04/k1e1n04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [teamLab](https://www.team-lab.com/)
+- 🌱 I’m currently learning Kubernetes and Haskell.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ken-ishii-25aa6b259)
 
 ## Github Stats
 
@@ -29,3 +18,8 @@ Here are some ideas to get you started:
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1e1n04&layout=compact">
   </picture>
 </a>
+
+## Zenn
+[![Likes](https://badgen.org/img/zenn/k1e1n04/likes?style=plastic)](https://zenn.dev/k1e1n04)
+[![Followers](https://badgen.org/img/zenn/k1e1n04/followers?style=plastic)](https://zenn.dev/k1e1n04)
+[![Articles](https://badgen.org/img/zenn/k1e1n04/articles?style=plastic)](https://zenn.dev/k1e1n04)
