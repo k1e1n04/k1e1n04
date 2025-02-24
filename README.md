@@ -6,18 +6,14 @@
 
 ## Github Stats
 
-<a href="https://github.com/abe-tk/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=k1e1n04&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true">
-    <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=k1e1n04&show_icons=true&rank_icon=github&include_all_commits=true">
-  </picture>
-</a>
-<a href="https://github.com/k1e1n04/convoychat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=k1e1n04&theme=dark&layout=compact">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1e1n04&layout=compact">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=k1e1n04&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true">
+  <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=k1e1n04&show_icons=true&rank_icon=github&include_all_commits=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=k1e1n04&theme=dark&layout=compact">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1e1n04&layout=compact">
+</picture>
 
 ## Zenn
 [![Likes](https://badgen.org/img/zenn/k1e1n04/likes?style=plastic)](https://zenn.dev/k1e1n04)
